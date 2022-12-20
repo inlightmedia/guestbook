@@ -1,0 +1,5 @@
+node_modules
+# It is recommended to ignore the .env file after you add your personal data to it.
+# sendgrid.env
+build
+.DS_Store
